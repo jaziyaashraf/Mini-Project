@@ -1,5 +1,5 @@
 # Mini-Project
-# Student Sleep Health and Academic Performance – Data Cleaning
+# Screen Time, Sleep & Academic Performance Analysis – Data Cleaning
 
 ## 1. Project Overview
 
